@@ -1,0 +1,26 @@
+RNA-SEQ DATA ANALYSIS REPORT
+============================
+
+Total genes analyzed: 20531
+Differentially expressed genes: 2434
+Upregulated genes: 739
+Downregulated genes: 1695
+
+Top Differentially Expressed Genes
+-----------------------------------
+gene_15899: Log2 Fold Change = 3.78
+gene_19648: Log2 Fold Change = 3.63
+gene_11903: Log2 Fold Change = 3.62
+gene_11352: Log2 Fold Change = 3.48
+gene_15895: Log2 Fold Change = 3.47
+gene_15894: Log2 Fold Change = 3.46
+gene_14149: Log2 Fold Change = 3.28
+gene_15896: Log2 Fold Change = 3.19
+gene_19752: Log2 Fold Change = 3.18
+gene_9192: Log2 Fold Change = 3.15
+
+Biological Interpretation
+--------------------------
+Genes with positive Log2 Fold Change show higher expression in sample_1 compared with sample_0. Genes with negative Log2 Fold Change show lower expression in sample_1.
+
+The dataset contains artificial gene identifiers (gene_0, gene_1, etc.), so specific functional annotations cannot be assigned without an external gene annotation database.

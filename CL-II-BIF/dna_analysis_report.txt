@@ -1,0 +1,17 @@
+DNA SEQUENCE ANALYSIS REPORT
+============================
+
+Sequence Length: 2544
+A Count: 644
+T Count: 688
+G Count: 609
+C Count: 603
+
+GC Content: 47.64%
+
+Motif Analysis:
+ATG: 55 occurrences
+TATA: 5 occurrences
+CG: 48 occurrences
+
+Number of Coding Regions: 53

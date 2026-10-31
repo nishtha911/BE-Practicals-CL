@@ -4,3 +4,4 @@
 *.json
 *.env
 *.fa
+*.ipynb_checkpoints

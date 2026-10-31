@@ -1,0 +1,6 @@
+Total genes: 20531
+DEGs: 2434
+Upregulated: 739
+Downregulated: 1695
+
+Functional annotations are unavailable without a gene annotation database.

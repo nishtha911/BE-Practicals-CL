@@ -1,6 +1,7 @@
-Total genes: 20531
-DEGs: 2434
-Upregulated: 739
-Downregulated: 1695
+RNA-Seq Differential Gene Expression Report
+Total genes: 801
+Differentially expressed genes: 744
+Upregulated genes: 744
+Downregulated genes: 0
 
-Functional annotations are unavailable without a gene annotation database.
+Note: Functional annotation requires a gene annotation database.
